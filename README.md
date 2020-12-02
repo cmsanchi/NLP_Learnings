@@ -12,5 +12,6 @@ https://www.mygreatlearning.com/blog/nlp-interview-questions/#1
 
 Sequence to Sequence example
 https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
+https://github.com/devm2024/nmt_keras/blob/master/base.ipynb
 
 
