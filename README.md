@@ -10,4 +10,7 @@ https://www.kaggle.com/general/96820
 NLP interview questions
 https://www.mygreatlearning.com/blog/nlp-interview-questions/#1
 
+Sequence to Sequence example
+https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
+
 
