@@ -15,3 +15,6 @@ https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning
 https://github.com/devm2024/nmt_keras/blob/master/base.ipynb
 
 
+Attention
+http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html
+
